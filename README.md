@@ -9,13 +9,13 @@ The starting point, ending point, and shortest path are then highlighted in gree
 
 Text File format where 4 is the number of points, followed by the coordinates of the points, 3 is the number of edges, followed by the points which are connected by edges, all listed vertically, each on new lines: 
 
-4
-0, 20
--5, 0
-0, 0
-10, 0
+4  
+0, 20  
+-5, 0  
+0, 0  
+10, 0  
 
-3
-0 2
-0 3
-0 1
+3  
+0 2  
+0 3   
+0 1  
