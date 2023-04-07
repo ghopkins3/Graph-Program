@@ -7,7 +7,7 @@ The points are displayed in red with a number denoting their order in the text f
 The user can then left click a starting point and right click an ending point. 
 The starting point, ending point, and shortest path are then highlighted in green and printed to the console. 
 
-Text File format where 4 is the number of points, followed by the coordinates of the points, 3 is the number of edges, followed by the points which are connected by edges, all listed vertically, each on new lines: 
+Text file format where 4 is the number of points, followed by the coordinates of the points, 3 is the number of edges, followed by the points which are connected by edges, all listed vertically, each on new lines: 
 
 4  
 0, 20  
